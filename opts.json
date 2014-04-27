@@ -1,0 +1,16 @@
+{
+   "globals": {
+      "tabLength": 3
+   },
+   "views": {
+      "pathFormat": "views/view_name/view_name.*",
+      "css": {
+         "create": true,
+         "alternative": "less"
+      },
+      "js": {
+         "create": true,
+         "alternative": "coffeescript"
+      }
+   }
+}
